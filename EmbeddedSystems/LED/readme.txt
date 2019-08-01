@@ -8,3 +8,15 @@ Vrey good articles for the detials about LED (Light Emitting Diodes) can be foun
 2) https://www.electronicproducts.com/Optoelectronics/LEDs/LED_101_Identifying_different_types_of_LEDs.aspx
 3) https://www.instructables.com/id/Demystifying-4-pin-addressable-RGB-LEDS/
 
+
+Just the overall different types of LEDS:- 
+
+1) Miniature LED
+2) High Power LED
+3) Bi-Color/Tri-Color LED
+4) RGB LEDS
+5) AlphNumeric LED
+6) Lightin LED
+7) Flashing LED
+8) SMD (Surface Mount Device)
+9) Speacial LED
